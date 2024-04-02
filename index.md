@@ -11,3 +11,8 @@ Tried the different methods to the headers in README.md
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+#Task List
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
